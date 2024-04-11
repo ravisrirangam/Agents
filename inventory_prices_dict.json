@@ -1,0 +1,82 @@
+{
+  "sofa": {
+    "price": 1000.0,
+    "volume": 2.5
+  },
+  "television": {
+    "price": 500.0,
+    "volume": 0.02
+  },
+  "refrigerator": {
+    "price": 1200.0,
+    "volume": 0.8
+  },
+  "microwave": {
+    "price": 150.0,
+    "volume": 0.03
+  },
+  "bed": {
+    "price": 800.0,
+    "volume": 1.5
+  },
+  "desk": {
+    "price": 200.0,
+    "volume": 0.4
+  },
+  "chair": {
+    "price": 50.0,
+    "volume": 0.2
+  },
+  "lamp": {
+    "price": 30.0,
+    "volume": 0.01
+  },
+  "bookshelf": {
+    "price": 100.0,
+    "volume": 0.5
+  },
+  "computer": {
+    "price": 1200.0,
+    "volume": 0.02
+  },
+  "coffee table": {
+    "price": 75.0,
+    "volume": 0.2
+  },
+  "dining table": {
+    "price": 250.0,
+    "volume": 1.0
+  },
+  "wardrobe": {
+    "price": 350.0,
+    "volume": 1.5
+  },
+  "oven": {
+    "price": 500.0,
+    "volume": 0.3
+  },
+  "dishwasher": {
+    "price": 400.0,
+    "volume": 0.3
+  },
+  "washing machine": {
+    "price": 600.0,
+    "volume": 0.6
+  },
+  "toaster": {
+    "price": 20.0,
+    "volume": 0.01
+  },
+  "blender": {
+    "price": 30.0,
+    "volume": 0.02
+  },
+  "rug": {
+    "price": 80.0,
+    "volume": 0.1
+  },
+  "clock": {
+    "price": 25.0,
+    "volume": 0.01
+  }
+}
